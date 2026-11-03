@@ -13,11 +13,11 @@ const profileDeck = [
   {
     id: 'rafi', name: 'Rafi', bengali: 'রাফি', loc: 'Dhanmondi, Dhaka', locShort: 'ঢাকা',
     age: 24, goal: 'Serious', points: 98, distanceKm: 2,
-    photo: 'https://images.unsplash.com/photo-1585386959984-f89BBC833cf3?auto=format&fit=crop&w=1200&q=80',
+    photo: 'https://picsum.photos/seed/rafi/400/600?auto=format&fit=crop&w=400&q=60',
     photos: [
-      'https://images.unsplash.com/photo-1585386959984-f89BBC833cf3?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1578573880453-8c6f49140953?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1600880292203-757da6ba7251?auto=format&fit=crop&w=1200&q=80',
+      'https://picsum.photos/seed/rafi/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/rafi/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/rafi/400/600?auto=format&fit=crop&w=400&q=60',
     ],
     bio: 'Frontend engineer. I\'d rather share biryani than screens. Looking for something steady.',
     tags: ['Cocoa', 'Coffee', 'Photography', 'Rust'],
@@ -26,11 +26,11 @@ const profileDeck = [
   {
     id: 'nadia', name: 'Nadia', bengali: 'নাদিয়া', loc: 'Khulnar, Chittagong', locShort: 'চট্টগ্রাম',
     age: 26, goal: 'Serious', points: 95, distanceKm: 45,
-    photo: 'https://images.unsplash.com/photo-1531482684804-cc9643dff25c?auto=format&fit=crop&w=1200&q=80',
+    photo: 'https://picsum.photos/seed/nadia/400/600?auto=format&fit=crop&w=400&q=60',
     photos: [
-      'https://images.unsplash.com/photo-1531482684804-cc9643dff25c?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1544005313-29854646cee0?auto=format&fit=crop&w=1200&q=80',
+      'https://picsum.photos/seed/nadia/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/nadia/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/nadia/400/600?auto=format&fit=crop&w=400&q=60',
     ],
     bio: 'Southbank Engineering. Bengali tea, slow reads, and a good walk. Let\'s talk real.',
     tags: ['Tea', 'Travel', 'Books', 'Nature'],
@@ -39,11 +39,11 @@ const profileDeck = [
   {
     id: 'tom', name: 'Tom', bengali: 'টম', loc: 'Gulshan, Dhaka', locShort: 'ঢাকা',
     age: 27, goal: 'Casual', points: 72, distanceKm: 1.5,
-    photo: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80',
+    photo: 'https://picsum.photos/seed/tom/400/600?auto=format&fit=crop&w=400&q=60',
     photos: [
-      'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1520936526128-1a0e96123e62?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1478146077330-59c03fc80328?auto=format&fit=crop&w=1200&q=80',
+      'https://picsum.photos/seed/tom/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/tom/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/tom/400/600?auto=format&fit=crop&w=400&q=60',
     ],
     bio: 'Music maker, food lover. I\'ll buy the first drink — but I\'d rather build something real.',
     tags: ['Music', 'Food', 'Hiking', 'Karaoke'],
@@ -52,11 +52,11 @@ const profileDeck = [
   {
     id: 'minha', name: 'Minha', bengali: 'মিনহা', loc: 'Pulpito, Rajshahi', locShort: 'রাজশাহী',
     age: 23, goal: 'Serious', points: 88, distanceKm: 180,
-    photo: 'https://images.unsplash.com/photo-1580587771525-78b9dba3b9ee?auto=format&fit=crop&w=1200&q=80',
+    photo: 'https://picsum.photos/seed/minha/400/600?auto=format&fit=crop&w=400&q=60',
     photos: [
-      'https://images.unsplash.com/photo-1580587771525-78b9dba3b9ee?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1560185127-24190fff65a0?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1519085800015-f222b7258060?auto=format&fit=crop&w=1200&q=80',
+      'https://picsum.photos/seed/minha/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/minha/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/minha/400/600?auto=format&fit=crop&w=400&q=60',
     ],
     bio: 'Architect. I design homes for a living — and hope to live in one that feels like a calm place.',
     tags: ['Architecture', 'Bengali poetry', 'Tea houses', 'Travel'],
@@ -65,11 +65,11 @@ const profileDeck = [
   {
     id: 'arif', name: 'Arif', bengali: 'আরিফ', loc: 'Banani, Dhaka', locShort: 'ঢাকা',
     age: 29, goal: 'Casual', points: 78, distanceKm: 3,
-    photo: 'https://images.unsplash.com/photo-1507507319364-1c34e04a310c?auto=format&fit=crop&w=1200&q=80',
+    photo: 'https://picsum.photos/seed/arif/400/600?auto=format&fit=crop&w=400&q=60',
     photos: [
-      'https://images.unsplash.com/photo-1507507319364-1c34e04a310c?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1519085800015-f222b7258060?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1533089812558-4d2436a1ab6c?auto=format&fit=crop&w=1200&q=80',
+      'https://picsum.photos/seed/arif/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/arif/400/600?auto=format&fit=crop&w=400&q=60',
+      'https://picsum.photos/seed/arif/400/600?auto=format&fit=crop&w=400&q=60',
     ],
     bio: 'Data person. I like clean code and sharper conversations. Let\'s see where it goes.',
     tags: ['Code', 'Chess', 'Roasts', 'Steam'],
@@ -180,7 +180,7 @@ function openProfile() {
   if (!card) return;
   const p = profileDeck.find(x => x.id === card.id);
   const slider = document.getElementById('profile-slider');
-  slider.innerHTML = p.photos.slice(0, 3).map((src, i) => `<img class="thumb" src="${src}" alt="${p.bengali || p.name}" style="${i === 0 ? 'display:block' : ''}" />`).join('');
+  slider.innerHTML = p.photos.slice(0, 3).map((src, i) => `<img class="thumb" src="${src}" alt="${p.bengali || p.name}" style="${i === 0 ? 'display:block' : ''}" onerror="this.parentElement.classList.add('pic-bad')"/>`).join('');
   renderProfileBody();
   go('profile');
 }
@@ -190,7 +190,7 @@ function renderCards() {
   const stack = document.getElementById('card-stack');
   stack.innerHTML = state.cardDeck.map((card, i) => `
     <div class="card${i === state.currentCardIndex ? ' active' : ''}">
-      <img class="thumb" src="${card.photo}" alt="${card.bengali || card.name}" />
+      <img class="thumb" src="${card.photo}" alt="${card.bengali || card.name}" onerror="this.parentElement.classList.add('pic-bad')"/>
       <div class="body">
         <div class="top"><span class="points">${card.points} pts</span><span class="loc">${card.locShort}</span></div>
         <div class="name">${card.bengali ? card.bengali : card.name}</div>
